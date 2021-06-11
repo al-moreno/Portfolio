@@ -257,12 +257,11 @@ section .title::after{
 .about .about-content .left{
     width: 45%;
 }
-.about .about-content .left img{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.about .about-content .left img{ 
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 6px;
+    
 }
 .about .about-content .right{
     width: 55%;
