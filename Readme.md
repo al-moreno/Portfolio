@@ -15,9 +15,9 @@ This site will provide a general idea of what I am able to accomplish with the u
 
 ## Deployment: 
 
-GitHub Repo: https://github.com/al-moreno/Mason_Loy
+GitHub Repo: https://github.com/al-moreno/Ana-Moreno-Portfolio
 
-GitHub Pages: https://al-moreno.github.io/Mason_Loy/
+GitHub Pages: https://al-moreno.github.io/Ana-Moreno-Portfolio/
 
 ![picture](./assets/images/Personal_Site.png)
 
