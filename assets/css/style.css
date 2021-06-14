@@ -593,6 +593,8 @@ section .title::after{
   color: var(--crimson);
   background: none;
 }
+
+
 /* footer section styling */
 footer{
     background: var(--background_black);
