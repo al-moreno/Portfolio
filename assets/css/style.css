@@ -458,7 +458,24 @@ section .title::after{
     border-color: var(--white);
 }
 
+[data-action] {
+    color: var(--white);
+    position: relative;
+   
+}
 
+[data-action]:hover::after{
+    position: absolute;
+    content: attr(data-action);
+    Width: 200px;
+    color: var(--white);
+    background-color: var(--crimson);
+    bottom: 70px;
+    border: 1px solid var(--white);
+    border-radius: 10px;
+    font-size: 80%;
+   
+}
 .owl-dots{
     text-align: center;
     margin-top: 20px;
