@@ -1,7 +1,7 @@
 
 /* Import desired fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 /* Reset browser defaults */
 *{
     margin: 0;
@@ -216,7 +216,8 @@ section .title::after{
 }
 
 .home .home-content .text-2{
-    font-size: 75px;
+    font-family: 'Dancing Script', cursive, sans-serif;
+    font-size: 100px;
     font-weight: 600;
     margin-left: -3px;
 }
@@ -262,7 +263,7 @@ section .title::after{
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: px;
+    border-radius: 2px;
 }
 .about .about-content .right{
     width: 55%;
@@ -407,7 +408,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .js::before{
-    width: 60%;
+    width: 75%;
 }
 .skills-content .right .php::before{
     width: 50%;
@@ -586,7 +587,7 @@ section .title::after{
   cursor: pointer;
   flex-wrap: nowrap;
   background: var(--crimson);
-  border: 2px solid var(--crimson);
+  border:  2px solid var(--crimson);
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
