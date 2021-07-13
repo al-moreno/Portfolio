@@ -220,6 +220,7 @@ section .title::after{
     font-size: 100px;
     font-weight: 600;
     margin-left: -3px;
+    text-shadow: 4px 4px 4px var(--background_grey2)
 }
 
 .home .home-content .text-3{
