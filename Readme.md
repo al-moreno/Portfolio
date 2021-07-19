@@ -21,7 +21,8 @@ GitHub Pages: https://al-moreno.github.io/Portfolio/
 
 ![picture](./assets/images/Personal_Site.png)
 
-
+ 
+ 
 ## Installation:
 1.  No installation if needed 
 2.  You may view code through access of GitHub, link provided above.
