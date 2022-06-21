@@ -12,7 +12,7 @@
 
 /* Color variables */
 :root {
-    --crimson: crimson;
+    --crimson: rgb(250, 191, 29) ;
     --white: #fff;
     --background_white: #f1f1f1;
     --background_grey: #888;
@@ -31,7 +31,7 @@
 }
 
 /* custom scroll bar */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
     width: 10px;
 }
 ::-webkit-scrollbar-track {
@@ -43,7 +43,7 @@
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--background_grey2);
-}
+} */
 
 /* all similar content styling codes */
 section{
@@ -406,16 +406,16 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 80%;
+    width: 5%;
 }
 .skills-content .right .js::before{
-    width: 75%;
+    width: 5%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 5%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 5%;
 }
 
 /* projects section styling */
